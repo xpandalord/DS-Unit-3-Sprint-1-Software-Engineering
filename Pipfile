@@ -10,6 +10,8 @@ pandas = "*"
 numpy = "*"
 sklearn = "*"
 matplotlib = "*"
+jupyterlab = "*"
+scikit-learn = "*"
 
 [requires]
 python_version = "3.8"
